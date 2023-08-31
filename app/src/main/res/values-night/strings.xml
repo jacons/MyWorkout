@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyWorkout</string>
+    <string name="add_workout_program">Add Workout program</string>
+    <string name="name_of_workout">Name of workout</string>
+    <string name="save">Save</string>
+    <string name="number_of_cycles">Number of Cycles</string>
+    <string name="micro_cycles_weeks">Microcycles (weeks)</string>
+    <string name="series">Series</string>
+    <string name="reps">Reps</string>
+    <string name="update_cards">Update cards</string>
+
+    <string name="add">Add Workout</string>
+    <string name="edit">Modify last Workout</string>
+    <string name="history">History</string>
+    <string name="time">Time</string>
+    <string name="name_of_exercise">Name of Exercise</string>
+    <string name="days">Days</string>
+    <string name="notes">Notes</string>
+</resources>
